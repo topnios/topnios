@@ -12,3 +12,6 @@
 
 ## 🤝 Contact
 <img src="https://img.shields.io/badge/topnios@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/>
+
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=topnios)](https://github.com/anuraghazra/github-readme-stats)
